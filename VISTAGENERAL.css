@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+  background-color: #076EFA;
+  color: #CCD1D1;
+  font-family: monospace;
+}
+
+li{
+  background-color: #5499C7;
+  display: inline;
+}
+
+#cabeceraweb{
+  background-color: #4A235A;
+
+}
+
+#barraNavegacion{
+  background-color: #76448A;
+  font-size: 18px;
+}
+
+#barralateral{
+  background-color: #154360;
+  font-size: 18px;
+  float: right;
+  height: 650px;
+}
+
+#contenidoPrincipal{
+  background-color: #7D3C98;
+  margin-left: 25px;
+  padding-left: 10px;
+}
+
+#pieweb{
+  background-color: #BB8FCE;
+  margin-top: 15px;
+  clear:both;
+}
